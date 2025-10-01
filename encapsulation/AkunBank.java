@@ -1,3 +1,4 @@
+package encapsulation;
 public class AkunBank {
     private int saldo; //property
 
